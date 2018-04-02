@@ -1,6 +1,0 @@
-framework module EShopKit {
-  umbrella header "EShopKit.h"
-
-  export *
-  module * { export * }
-}
